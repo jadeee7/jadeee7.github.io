@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- general -->
+  <string id="30001">Sesame Street</string>
+  <string id="30002">SesameStreet.org</string>
+
+  <!-- settings -->
+  <string id="30101">General</string>
+  <string id="30102">Filters</string>
+  <string id="30103">File lists</string>
+  <string id="30111">Number of videos per page</string>
+  <string id="30112">Fetch muppet pictures (slower)</string>
+  <string id="30113">"More videos" button (endless paging)</string>
+  <string id="30140">Enable debugging</string>
+  <string id="30141">By age group</string>
+  <string id="30142">All Ages</string>
+  <string id="30143">Age 2 and Under</string>
+  <string id="30144">Age 3</string>
+  <string id="30145">Age 4</string>
+  <string id="30146">Age 5+</string>
+  <string id="30147">Age</string>
+
+  <!-- menus -->
+  <string id="30501">More videos...</string>
+  <string id="30502">Recent videos</string>
+  <string id="30503">Muppets</string>
+  <string id="30504">Topics</string>
+  <string id="30505">Play all</string>
+
+  <!-- messages -->
+  <string id="30601">No videos were found.</string>
+</strings>

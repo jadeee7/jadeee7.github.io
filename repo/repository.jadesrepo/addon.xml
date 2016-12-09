@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.jadesrepo" name="Jade's Repo" version="1.1.1" provider-name="The Boogeyman">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Jade's Repo">
+            <info compressed="false">https://raw.githubusercontent.com/jadeee7/jadeee7.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jadeee7/jadeee7.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jadeee7/jadeee7.github.io/master/repo/zips/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Custom Repo: My Addons</summary>
+            <description>A custom Repo of all the addons I use.</description>
+            <platform>all</platform>
+    </extension>
+</addon>

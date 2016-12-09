@@ -1,0 +1,38 @@
+v 0.4.1:
+- "more” button (endless paging) made optional
+
+v 0.4.0:
+- “Play all” functionality for all video lists
+- ability to save complex objects for later use
+
+v 0.3.1:
+- added language localization support
+- improve XBMC boolean settings handling
+
+v 0.3.0:
+- session-cookie handling for JSON requests, better server-returned results
+- “more videos…” button, utilising cookie
+- new menu module, for adding folder/video items to menu lists
+- fix single/double quote mess
+- fix filestack() depth lookup
+
+v 0.2.3:
+- better debug printing
+- debug logging setting
+- "reset" parameter in video fetching defaulted to False
+
+v 0.2.2:
+- performance: setting to fetch muppet pictures
+
+v 0.2.1:
+- improved beautiful soup tag matching for muppets
+- fetch JSON-formatted muppet names from JS file
+- use python’s dict.get() to check for filters
+
+v 0.2.0:
+- moved multi-used vars/functions/settings to module files: common,utils,settings
+- settings page: video list count, age restriction filter
+- 2 new directories: videos by muppets/topics
+
+v 0.1.0:
+- initial plugin functionality

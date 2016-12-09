@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="30101">
+    <setting id="general muppetpictures" type="bool" label="30112" default="false" />
+    <setting type="sep" />
+    <setting id="general debug" type="bool" label="30140" default="false" />
+  </category>
+  <category label="30103">
+    <setting id="lists videonum" type="labelenum" label="30111" values="10|25|50" default="25" />
+    <setting id="lists morebtn" type="bool" label="30113" default="true" />
+  </category>
+  <category label="30102">
+    <setting id="filter agegroup" type="enum" label="30141" lvalues="30142|30143|30144|30145|30146" />
+  </category>
+</settings>
